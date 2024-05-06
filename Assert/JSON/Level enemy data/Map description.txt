@@ -1,0 +1,9 @@
+1. Each map has 15 levels
+2. The number after the monster name is the magnification of that monster
+3. In each "monsters", the first monster is the representative monster
+4. If monster's skill is [], that means use the default skills set for that monster
+
+"level" -> "enemy" -> "enemy-n" -> ("monsters", "loot")
+"monsters" -> "monster-100" -> (number, skill, material)
+
+"material" -> ("number": chance)
