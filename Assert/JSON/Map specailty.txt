@@ -1,0 +1,130 @@
+Forest: the first map, beginner friendly
+    - Tile types:
+        Camp
+        Grass
+        Wood: Hidden from sights
+        Mushroom: Hidden from sights
+        Water: Do not walk
+        Mountain: Tall
+        Empty
+        Portal
+
+Desert: the second map, a bit harder
+    - Tile types:
+        Camp
+        Sand
+        Cactus
+        Quicksand: stuck 1 move
+        Grass
+        Water: Do not walk
+        Wood: Hidden from sights
+        Empty
+        Portal
+
+Windy land: the third map, harder than the second one
+    - Tile types:
+        Camp
+        Grass
+        Stone: Tall
+        Water: Do not walk
+        Strong wind: Throw object to a random location
+        Mountain: Tall
+        Windmill
+        Empty
+        Portal
+
+Volcano: the fourth map, not bad you are here
+    - Tile types:
+        Camp
+        Lava: Do not walk
+        Mountain: Tall
+        Stone: Tall
+        Dead bush
+        Land
+        Smoke: Hidden from sights
+        Crystal
+        Empty
+        Portal
+
+Cold place: the fifth map, let's see how far you can still go
+    - Tile types:
+        Camp
+        Snow
+        Ice
+        Iceberg: Tall
+        Water: Do not walk
+        Floating ice: Become water after walk by player
+        Crystal
+        Empty
+        Portal
+
+Fog kingdom: the sixth map, you are really good at this
+    - Tile types:
+        Camp
+        Fog: Hidden from sights
+        Fence: Tall
+        House
+        Land
+        Water: Do not walk
+        Mushroom: Hidden from sights
+        Dead tree
+        Dead bush
+        Lantern: Light the darkness
+        Skull
+        Empty
+        Portal
+
+Star realm: the seventh map, here is my challenge for you (NO NIGHT)
+    - Tile types:
+        Camp
+        Empty
+        Cloud
+        Star
+        Crystal
+        Small portal: Throw object to a random location
+        Evil worship realm: Destroy them or you will face much stronger enemies
+        Portal
+
+Blackhole: the eighth map, I bet you can't beat this one (ALWAYS NIGHT)
+    - Tile types:
+        Empty
+        Land
+        Blackhole: Throw object near player
+        Dark source: Generate monsters
+        Black mist: Do not walk
+        House
+        Water: Do not walk
+        Skull
+        Star
+        Cloud
+        Evil worship realm: Destroy them or you will face much stronger enemies
+        Grass
+        Wood: Hidden from sights
+        Mushroom: Hidden from sights
+        Crystal
+        Fog: Hidden from sights
+        Fence: Tall
+        Dead tree
+        Dead bush
+        Lantern: Light the darkness
+        Sand
+        Cactus
+        Lava: Do not walk
+        Snow
+        Ice
+        Iceberg: Tall
+        Windmill
+        Empty
+        Portal
+
+Golden island: the 1st special map, fight the GOLDEN enemies!
+    - Tile types:
+        Empty
+        Camp (Golden)
+        Land (Golden)
+        Grass (Golden)
+        Mountain (Golden): Tall
+        Water (Golden): Do not walk
+        Mushroom (Golden): Hidden from sights
+        Wood (Golden): Hidden from sights
+        Portal
